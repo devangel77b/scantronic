@@ -1,0 +1,10 @@
+There are many tools for grading scantron-like tests including zipgrade. However, zipgrade costs money so developing a free and fully open-source zipgrade alternative will help increase access to an extremely useful teaching tool.
+
+Alternatives:
+GradeCam by Gradient (Not open source; Reddit is saying a lot about it but can't find original version; Probably rebranded and are now charing money)
+ZipGrade - $7/year (Which honestly is not that bad)
+FormScanner - https://github.com/ylemkimon/formscanner (Looks promising however was last active 9 years ago)
+Open-MCR - https://github.com/iansan5653/open-mcr (Looks the most promising; Would need work to integrate with different bubble-sheets(currently only 75 and 150 mcq); Relatively active github)
+Fully custom
+
+I suggest that we further look into Open-MCR and see if that can be used for our purposes. It will likely need to be tweaked further. 
